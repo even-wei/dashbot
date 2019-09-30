@@ -13,4 +13,4 @@ DashBot is a real-time dashboard for chat bots. Also, it is a side project to pr
 
 # Architecture
 
-![architecture](https://github.com/EvenPeng/dashbot/docs/architecture.jpg)
+![architecture](https://github.com/EvenPeng/dashbot/raw/master/docs/architecture.jpg)
